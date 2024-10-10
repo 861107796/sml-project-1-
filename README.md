@@ -1,16 +1,16 @@
 # sml-project-1-
-#SML Project 1  
-##Project Introduction  
+SML Project 1  
+Project Introduction  
 This is a machine learning based project focused on exploring different models and data processing techniques.  
 
-##project structure  
+project structure  
 ·data preparation/` -include data preprocessing  
 `data/` - include original dataset ( already use Git LFS manage large data)  
 `feature extraction/` - include feature extraction  
 `model/` - include different machine learning model  
-\new-data/` - include new dataset after data preprocessing  
+`new-data/` - include new dataset after data preprocessing  
 
-##Install and Execute  
+Install and Execute  
 Install code:  
 Unzip the zip file  
 
