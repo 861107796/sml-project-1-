@@ -4,7 +4,7 @@ Project Introduction
 This is a machine learning based project focused on exploring different models and data processing techniques.  
 
 project structure  
-·data preparation/` -include data preprocessing  
+`data preparation/` -include data preprocessing  
 `data/` - include original dataset ( already use Git LFS manage large data)  
 `feature extraction/` - include feature extraction  
 `model/` - include different machine learning model  
